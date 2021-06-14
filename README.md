@@ -1,1 +1,1 @@
-# downloaderYoutubeVideos
+# downloaderYoutubeThumbnail
